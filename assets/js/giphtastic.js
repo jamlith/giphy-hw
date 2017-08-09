@@ -4,7 +4,7 @@
 
 // giphy api key
 
-var categories = [ "doge", "ytmnd", "fail", "win", "facepalm", "success", "awkward", "unimpressed" ];
+var categories = [ "doge", "facepalm", "success", "awkward", "unimpressed" ];
 var ret_rating = "0"; // Y G PG PG-13 R
 var rating_opts = [ "R", "PG-13", "PG", "G", "Y" ];
 
