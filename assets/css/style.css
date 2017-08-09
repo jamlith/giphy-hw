@@ -1,0 +1,31 @@
+/*
+|   style.css-
+|     formatting rules for Giphy-HW project
+*/
+
+* {
+  box-sizing: border-box;
+}
+
+#btnDiv {
+
+}
+
+.category-buttons {
+  /* applies to the category selection buttons */
+  line-height: 1.5em;
+  background: #187280;
+  color: #fff;
+}
+
+
+
+.thumbnail {
+  display: inline-block;
+
+}
+.giph_thumbs {
+  height: 200px
+  width: auto;
+
+}
